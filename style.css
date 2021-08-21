@@ -1,0 +1,10 @@
+.jumbotron {
+    background: #2C3E50
+;
+}
+.card-header:first-child {
+    border-radius: 0;
+}
+.list-group {
+    border-radius: 0;
+}
